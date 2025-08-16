@@ -1,4 +1,4 @@
-# Modified-Spacetime-Hypothesis
+# zmCP: Spacetime as a Dynamic Partner of Matter  
 The hypothesis treats spacetime not as a passive backdrop for matter, but as an equal partner in physical transformations. The inspiration stems from explosive chemistry—specifically, how the detonation of high-energy materials  mixtures) converts condensed matter into expanding gases and energy.
 
 [![Download PDF](https://img.shields.io/badge/Download-Full_PDF-blue)](https://github.com/ArkOkupski-WAT/Modified-Spacetime-Hypothesis/raw/main/Modified_Spacetime_Hypothesis__zmCP_.pdf)
